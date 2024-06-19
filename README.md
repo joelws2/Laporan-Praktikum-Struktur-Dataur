@@ -18,7 +18,18 @@ Anda dapat menghubungi saya melalui email di **joelwsimanungkalit@gmail.com** at
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+# Jobsheet 1: Pengantar dan Dasar-dasar Bahasa C
 
+Selamat datang di Jobsheet 1 praktikum Struktur Data!
+
+![C Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/200px-The_C_Programming_Language_logo.svg.png)
+
+## Pendahuluan
+Jobsheet ini mengenalkan dasar-dasar Struktur Data dan bahasa pemrograman C. Struktur Data adalah konsep penting dalam pemrograman yang membantu dalam penyimpanan dan pengorganisasian data agar dapat diakses dan dimanipulasi dengan efisiensi.
+
+## Materi yang Akan Dipelajari
+1. **Pengenalan Struktur Data**: Definisi dan pentingnya Struktur Data dalam pengembangan perangkat lunak.
+2. **Dasar-dasar Bahasa C**: Pengantar singkat mengenai C sebagai bahasa pemrograman.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
