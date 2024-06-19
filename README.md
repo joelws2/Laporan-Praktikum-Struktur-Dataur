@@ -17,23 +17,7 @@ Anda dapat menghubungi saya melalui email di **joelwsimanungkalit@gmail.com** at
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-# Jobsheet 1 - Program Latihan Bahasa C
 
-Repositori ini berisi kumpulan program latihan yang dirancang untuk memperkenalkan konsep-konsep dasar pemrograman dalam bahasa C. Setiap program merupakan contoh implementasi dari berbagai teknik pemrograman yang fundamental.
-
-## latihan no.1.c
-Program pertama ini merupakan latihan dasar untuk memahami struktur program C. Program ini mencakup penggunaan fungsi `main` dan cara menampilkan output ke layar menggunakan `printf`.
-
-## latihan no.2.c
-Program kedua fokus pada penggunaan variabel dan tipe data dalam bahasa C. Latihan ini mengajarkan cara mendeklarasikan variabel, memberikan nilai, dan menampilkan nilai variabel tersebut menggunakan `printf`.
-
-## Latihan no.3.c
-Program ketiga mengenalkan konsep pengambilan input dari pengguna menggunakan `scanf`. Program ini meminta pengguna untuk memasukkan data, yang kemudian diproses dan ditampilkan hasilnya.
-
-## Latihan no.4.c
-Program keempat ini mengajarkan konsep pengulangan (looping) dalam bahasa C. Program ini mungkin menggunakan struktur `for`, `while`, atau `do-while` untuk melakukan iterasi dan menyelesaikan tugas tertentu.
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
