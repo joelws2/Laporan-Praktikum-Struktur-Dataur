@@ -179,7 +179,7 @@ Algoritma pencarian adalah teknik untuk mencari elemen tertentu dalam koleksi da
 ### Kesimpulan:
 Tugas ini bertujuan untuk memberikan pemahaman tentang dua metode pencarian data, yaitu Linear Search dan Binary Search. Keduanya penting dalam aplikasi yang membutuhkan efisiensi dalam pencarian data dalam berbagai skenario.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Jobsheet 12: Tree
 
