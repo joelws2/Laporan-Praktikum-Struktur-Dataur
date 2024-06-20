@@ -154,7 +154,7 @@ Tugas ini bertujuan untuk memberikan pemahaman tentang dua metode sederhana untu
 
 ## Jobsheet 9: Selection and Merge Sort
 
-![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/40517363-bbd7-4027-b201-f830d4fb400c)
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/3bfd0fa3-5e14-4213-a09b-18d92429a92c)
 ![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/740ae0f6-06f1-4ddc-8aaa-601a53ed7a45)
 
 ### Tujuan:
