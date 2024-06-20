@@ -36,6 +36,8 @@ Struktur data seperti pointer, struct, array, linked list, double linked list, d
 
 ## Jobsheet 2: Array, Pointer, Structure
 
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/dfaacad6-c979-42af-92a7-b12138eb8ff5)
+
 ### Tujuan:
 - Mahasiswa mampu menjelaskan konsep array, pointer, structure, dan ADT dalam pemrograman.
 - Mahasiswa mampu mengimplementasikan dan memanipulasi data array, pointer, structure, dan ADT dalam pemrograman.
