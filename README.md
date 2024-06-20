@@ -43,23 +43,6 @@ Struktur data seperti pointer, struct, array, linked list, double linked list, d
 ### Topik Perkuliahan:
 Array adalah kumpulan nilai yang bertipe data sama yang diakses menggunakan indeks. Pointer adalah variabel yang berisi alamat memori sebagai nilainya, berbeda dengan variabel biasa yang berisi nilai tertentu. Struct adalah kumpulan variabel dengan tipe-tipe yang berbeda yang dikelompokkan dalam satu nama objek.
 
-### Gambar Penjelasan
-
-#### Array
-Array adalah kumpulan elemen yang memiliki tipe data yang sama, diakses menggunakan indeks. Setiap elemen dalam array dapat diakses secara langsung dengan menggunakan indeks yang dimulai dari 0.
-
-![Array Illustration](https://i.imgur.com/9iJm2S3.png)
-
-#### Pointer
-Pointer adalah variabel yang menyimpan alamat memori dari variabel lain. Pointers sangat berguna untuk mengakses dan memanipulasi data secara langsung di memori.
-
-![Pointer Illustration](https://i.imgur.com/GvGzSSE.png)
-
-#### Struct
-Struct adalah kumpulan variabel yang bisa memiliki tipe data berbeda yang dikelompokkan bersama di bawah satu nama. Struct digunakan untuk mengelompokkan beberapa data yang terkait menjadi satu unit.
-
-![Struct Illustration](https://i.imgur.com/7k4EhxE.png)
-
 ### Kesimpulan:
 Pada tugas ini, kita belajar menggunakan array untuk menyimpan data berurutan, pointer untuk mengakses memori secara langsung, dan struct untuk mengelompokkan data yang berbeda tipe dalam satu unit. Kombinasi dari ketiga konsep ini penting dalam pengelolaan data yang terstruktur dan efisien dalam pemrograman.
 
