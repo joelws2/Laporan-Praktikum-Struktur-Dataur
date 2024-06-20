@@ -52,6 +52,8 @@ Pada tugas ini, kita belajar menggunakan array untuk menyimpan data berurutan, p
 
 ## Jobsheet 3: Single Linked List
 
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/737dd0aa-7f6a-4c7e-bd7b-e6162f259ec3)
+
 ### Tujuan:
 - Mahasiswa mengenal struktur data linked list.
 - Mahasiswa mampu menerapkan operasi dasar dalam linked list.
@@ -67,6 +69,8 @@ Tugas ini bertujuan untuk memahami dan mempraktikkan penggunaan pointer dan alok
 
 ## Jobsheet 4: Doubly Linked List
 
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/e5ad43d4-fa17-4ac6-ba32-a519369bb36a)
+
 ### Tujuan:
 - Mahasiswa mampu menjelaskan konsep doubly linked list.
 - Mahasiswa mampu mengimplementasikan penyimpanan data menggunakan doubly linked list.
@@ -80,6 +84,8 @@ Tugas ini fokus pada penggunaan pointer dan alokasi memori dinamis dalam bahasa 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Jobsheet 5: Circular Linked List
+
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/095b90b8-d529-4df7-a391-0ca801290406)
 
 ### Tujuan:
 - Mahasiswa memahami konsep double linked list dan circular linked list dalam pemrograman C.
@@ -96,6 +102,8 @@ Tugas ini bertujuan untuk memberikan pemahaman mendalam tentang implementasi dan
 
 ## Jobsheet 6: Stack
 
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/325b31cf-d757-4900-8d88-4703ffa4319a)
+
 ### Tujuan:
 - Mahasiswa memahami konsep tumpukan atau stack dalam pemrograman C.
 - Mahasiswa memahami operasi yang ada dalam struktur data tumpukan atau stack.
@@ -110,6 +118,8 @@ Tugas ini bertujuan untuk memberikan pemahaman mendalam tentang implementasi dan
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Jobsheet 7: Queue
+
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/fc4accb1-668c-4085-8219-0e40c30bbc69)
 
 ### Tujuan:
 - Mahasiswa memahami konsep antrian atau queue dalam pemrograman C.
@@ -126,6 +136,9 @@ Tugas ini bertujuan untuk memberikan pemahaman tentang struktur data queue dan a
 
 ## Jobsheet 8: Bubble and Insertion Sort
 
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/d2447f9b-01ef-42cf-a610-cf06e1e8daa5)
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/394bc3bd-0f3d-4b83-9e2f-59f91b021e11)
+
 ### Tujuan:
 - Mahasiswa memahami konsep pengurutan dengan metode Bubble Sort dan Insertion Sort.
 - Mahasiswa mampu mengimplementasikan pengurutan dengan menggunakan Bubble Sort dan Insertion Sort dalam pemrograman C.
@@ -140,6 +153,9 @@ Tugas ini bertujuan untuk memberikan pemahaman tentang dua metode sederhana untu
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Jobsheet 9: Selection and Merge Sort
+
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/40517363-bbd7-4027-b201-f830d4fb400c)
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/740ae0f6-06f1-4ddc-8aaa-601a53ed7a45)
 
 ### Tujuan:
 - Mahasiswa memahami konsep pengurutan dengan metode Selection Sort dan Merge Sort.
@@ -156,6 +172,9 @@ Tugas ini bertujuan untuk memberikan pemahaman yang lebih dalam tentang dua algo
 
 ## Jobsheet 10: Shell and Quick Sort
 
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/093f49ed-7b51-4072-8d11-bca7bdb25d8e)
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/d5b70418-b842-4732-9d27-cfe00774de36)
+
 ### Tujuan:
 - Mahasiswa memahami konsep pengurutan dengan metode Shell Sort dan Quick Sort.
 - Mahasiswa mampu mengimplementasikan pengurutan dengan menggunakan Shell Sort dan Quick Sort dalam pemrograman C.
@@ -171,6 +190,8 @@ Tugas ini bertujuan untuk memberikan pemahaman yang lebih dalam tentang dua algo
 
 ## Jobsheet 11: Linear and Binary Search
 
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/b8ccb6e0-f6eb-4722-8395-7405d77001c5)
+
 ### Tujuan:
 - Mahasiswa memahami konsep pencarian dengan metode Linear Search dan Binary Search.
 - Mahasiswa mampu mengimplementasikan konsep pencarian dalam pemrograman C menggunakan IDE.
@@ -184,6 +205,8 @@ Tugas ini bertujuan untuk memberikan pemahaman tentang dua metode pencarian data
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Jobsheet 12: Tree
+
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/68cb9081-227d-4674-b1f3-23a138a0d4f9)
 
 ### Tujuan:
 - Mahasiswa memahami konsep penjelajahan data Tree Traversal dan pencarian Binary Tree dalam pemrograman C.
@@ -199,6 +222,8 @@ Tugas ini bertujuan untuk memberikan pemahaman tentang struktur data Tree dan be
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Jobsheet 13: Graphs
+
+![image](https://github.com/joelws2/Laporan-Praktikum-Struktur-Dataur/assets/144107442/d91f4ef9-7b11-4906-8c4c-5d558ed817e0)
 
 ### Tujuan:
 - Mahasiswa memahami konsep pencarian DFS (Depth-First Search) dan BFS (Breadth-First Search) dalam pemrograman C.
