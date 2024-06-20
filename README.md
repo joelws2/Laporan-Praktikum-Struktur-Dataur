@@ -6,7 +6,7 @@
 Nama saya adalah **Joel Wiseda Simanungkalit**. Saya adalah mahasiswa di **Universitas Negeri Padang** jurusan **Teknik Informatika**.
 
 ## Hobi
-Saya suka **membaca buku**, **menulis kode**, dan **bermain game**. Beberapa buku favorit saya adalah **Success Before 30**, **Reality Check**.Bahasa pemrograman yang saya pelajari adalah **C**, **Python**. Beberapa game yang saya mainkan adalah **Mobile Legends**, **PUBG**, dan **Valorant**.
+Saya suka **membaca buku**, **menulis kode**, dan **bermain game**. Beberapa buku favorit saya adalah **Success Before 30**, **Reality Check**.Bahasa pemrograman yang saya pelajari adalah **C** dan **Python**. Beberapa game yang saya mainkan adalah **Mobile Legends**, **PUBG**, dan **Valorant**.
 
 ## Mimpi
 Saya bermimpi menjadi **pengembang perangkat lunak** yang handal dan profesional. Saya ingin membuat aplikasi atau game yang bermanfaat dan menyenangkan bagi banyak orang. Saya juga ingin berkontribusi pada komunitas open source dan belajar dari pengalaman orang lain.
